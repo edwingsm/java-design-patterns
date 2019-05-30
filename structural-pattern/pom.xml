@@ -22,5 +22,7 @@
   </dependencies>
   <modules>
     <module>facade</module>
+    <module>adapter</module>
+    <module>bridge</module>
   </modules>
 </project>
